@@ -1,2 +1,1 @@
-hi all
-bye
+How are you?
